@@ -1,6 +1,6 @@
 # 🏔️ Hi, I'm Nguyen!
 📙 Software Engineering @ LUT University, Finland<br/>
-🚀 Founder of [Temptal](https://www.temptal.com/) — creating blank website templates for fast MVPs & personal sites<br/>
+🚀 Founder @ [Temptal](https://www.temptal.com/) — creating starter website templates for fast MVPs & personal sites<br/>
 💻 Software Engineer @ Keys2Balance Oy, Finland<br/>
 🎯 Building in web development, and innovative projects<br/>
 🎨 Experienced in event production, marketing, and storytelling — bringing a human touch to tech
