@@ -1,8 +1,9 @@
 # 🏔️ Hi, I'm Nguyen!
-💻 Software Engineering student at LUT University, Finland.<br/>
-🚀 Founder of [Temptal](https://www.temptal.com/) — creating blank website templates for fast MVPs & personal sites.<br/>
+📙 Software Engineering @ LUT University, Finland<br/>
+🚀 Founder of [Temptal](https://www.temptal.com/) — creating blank website templates for fast MVPs & personal sites<br/>
+💻 Software Engineer @ Keys2Balance Oy, Finland<br/>
 🎯 Building in web development, and innovative projects<br/>
-🎨 Experienced in event production, marketing, and storytelling — bringing a human touch to tech.
+🎨 Experienced in event production, marketing, and storytelling — bringing a human touch to tech
 
 
 ### 🛠 Tech Stack & Tools
@@ -29,6 +30,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23005571.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
